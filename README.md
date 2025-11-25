@@ -61,7 +61,7 @@
 
 </details>
 
-
+<!-- 
 <h1>🐤 GitHub Stats:</h1>
 
 ![pushkarsinghh's Stats](https://github-readme-stats.vercel.app/api?username=pushkarscripts&theme=highcontrast&show_icons=true&hide_border=true&count_private=true&card_width=201)
@@ -70,3 +70,5 @@
 <img src="SnoopySleeping.png" 
      width="275" 
      style="position: absolute; bottom: 0; right: 0; z-index: 1;">
+
+--> 

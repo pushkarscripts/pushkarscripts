@@ -69,7 +69,7 @@
 ![pushkarsinghh's Streak](https://github-readme-streak-stats.herokuapp.com/?user=pushkarscripts&theme=highcontrast&hide_border=true&card_width=400)
 ![pushkarsinghh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pushkarscripts&theme=highcontrast&show_icons=true&hide_border=true&layout=compact&card_width=501)
 -->
-<a href="https://stats.hyo.dev/stats/pushkarscripts"><img src="https://stats.hyo.dev/api/github-stats?login=pushkarscripts" width="500" /></a> 
+<a href="https://stats.hyo.dev/stats/pushkarscripts"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=pushkarscripts" width="500" /></a> 
 <img src="SnoopySleeping.png" 
      width="275" 
      style="position: absolute; bottom: 0; right: 0; z-index: 1;">

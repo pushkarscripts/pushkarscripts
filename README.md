@@ -72,6 +72,7 @@
 <a href="https://stats.hyo.dev/stats/pushkarscripts"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=pushkarscripts" width="500" /></a> 
 <img src="SnoopySleeping.png" 
      width="275" 
+     align="right"
      style="position: absolute; bottom: 0; right: 0; z-index: 1;">
 
 

@@ -71,8 +71,9 @@
 -->
 <a href="https://stats.hyo.dev/stats/pushkarscripts"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=pushkarscripts" width="500" /></a> 
 
-<!-- <img src="SnoopySleeping.png" 
+<img src="SnoopySleeping.png" 
+     align="right"   
      width="275" 
      style="position: absolute; bottom: 0; right: 0; z-index: 1;">
--->
 
+<a href="https://stats.hyo.dev/stats/pushkarscripts"><img src="https://stats.hyo.dev/api/github-trophies?login=pushkarscripts" width="600" /></a>
